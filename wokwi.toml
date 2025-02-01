@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/numeros_display.uf2'
+elf = 'build/numeros_display.elf'
