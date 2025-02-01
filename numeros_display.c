@@ -5,7 +5,7 @@
 #include "hardware/clocks.h"
 #include "pio_matrix.pio.h"
 
-#define DEBOUNCE_LINE 300000  // 200ms em microsegundos
+#define DEBOUNCE_LINE 300000  // 300ms em microsegundos
 #define NUMERO_DE_LEDS 25     // Numero de LED's na matriz
 #define BTN_A 5               // Pino do botao A
 #define BTN_B 6               // Pino do botao B
