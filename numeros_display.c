@@ -21,8 +21,9 @@ volatile int btn_b_acionado = 0;    // Variavel de controle do 'botao b' pressio
 // Funcao responsavel por manter o led vermelho piscando 5 vezes por segundo
 void pisca_led_rgb(){
     gpio_put(RED_PINO, true);
-    sleep_ms(200);
+    sleep_ms(100);
     gpio_put(RED_PINO, false);
+    sleep_ms(100);
 }
 
 // Funcao com rotina de interrupcao (IRQ) que detecta e controla os botoes pressionados
