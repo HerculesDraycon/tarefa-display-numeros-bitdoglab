@@ -1,7 +1,5 @@
 # Tarefa - Numeros Display - BitDogLab
 
-**LINK DO VÍDEO ENSAIO:** https://drive.google.com/file/d/10BkMvR32o6eq8GaLNOp_hyquJgoV68HJ/view?usp=sharing
-
 # Documentação do Código
 
 ## **Descrição Geral**
